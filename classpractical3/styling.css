@@ -1,0 +1,22 @@
+body {
+    background-image:url(CST.jpg);
+}
+
+h1{
+    text-align: center;;
+}
+
+li{
+    text-align: center;;
+}
+
+ol{
+    text-align: center;;
+}
+
+h1:hover{
+    color:aliceblue;
+}
+li:hover{
+    color:aqua
+}
