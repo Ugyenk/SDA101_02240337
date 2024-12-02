@@ -26,10 +26,8 @@ The goal of this portfolio is to highlight my work and design skills in an organ
 
 To view or edit this project, clone this repository using the following command:
 
-```bash
-git clone https://github.com/your-username/portfolio-website.git
+ git clone https://github.com/your-usernameportfolio-website.git
 
-## File Stucture
 - index.html: Main HTML file containing the structure of the website.
 - styles.css: CSS file with all styles and layout for the website.
 - script.js: JavaScript file containing any interactivity for the site.
